@@ -4,36 +4,17 @@ body {
     text-align: center;
     padding: 20px;
 }
-
-h1 {
-    color: #00796b;
-}
-
 input {
     padding: 10px;
     margin: 10px;
-    border: 1px solid #00796b;
-    border-radius: 5px;
-    width: 250px;
-    font-size: 16px;
 }
-
 button {
-    padding: 10px 20px;
+    padding: 10px;
     background-color: #00796b;
     color: white;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
-    font-size: 16px;
 }
-
 button:hover {
     background-color: #004d40;
-}
-
-p {
-    font-size: 16px;
-    color: #333;
-    margin: 10px 0;
 }
